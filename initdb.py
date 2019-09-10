@@ -1,4 +1,4 @@
-from biodiversity_plotly_challenge.app import db
+from jambio.app import db
 
 # db.drop_all()
 db.create_all()

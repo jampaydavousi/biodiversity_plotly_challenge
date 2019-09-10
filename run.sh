@@ -1,1 +1,1 @@
-FLASK_APP=biodiversity_plotly_challenge/app.py flask run
+FLASK_APP=jambio/app.py flask run
